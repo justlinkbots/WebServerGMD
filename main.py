@@ -9,6 +9,7 @@ class Lib:
         self.author = ''
         self.works = []
         self.work = []
+        self.h[]
 
 
 item = [Lib() for i in range(5)]
